@@ -22,7 +22,7 @@ def create_streamlit_app(llm, portfolio, clean_text):
     with col2:
         typingPrint("Let AI Lead the Way!")  # Use the typingPrint function
     
-    url_input = st.text_input("Enter a URL:", placeholder="Enter a valid URL to generate a cold")
+    url_input = st.text_input("Enter a URL Shashwat:", placeholder="Enter a valid URL to generate a cold")
     submit_button = st.button("Submit")
 
     if submit_button:
