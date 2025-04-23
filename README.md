@@ -25,12 +25,12 @@ Cold email generator for services company using groq, langchain and streamlit. I
 
    Option 1: Clone via Git
    ```bash
-   git clone https://github.com/varunsainadh-116/SalesScribe-AI.git
+   git clone https://github.com/SHA-shwatdubey/jenkins-cicd.git
    ```
 
    Option 2: Clone via Docker Image
    ```commandline
-   docker pull varunsainadh/salesscribe-ai
+   docker pull SHA-shwatdubey/salesscribe-ai
 
     ```
        
